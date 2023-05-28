@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Jeu X O</string>
+    <string name="jouer">Jouer</string>
+
+    <string name="playerSetup">Entrer votre nom</string>
+    <string name="label1">Joueur 1</string>
+    <string name="label2">Joueur 2</string>
+    <string name="boutonEnvoyer">Envoyer Nom</string>
+    <string name="Name">Entrer votre nom</string>
+
+    <string name="rejouer">Rejouer</string>
+    <string name="accueil">Accueil</string>
+</resources>
